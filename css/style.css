@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, Verdana, sans-serif;
+    font-family: Arial, Verdana;
     background-color: #000000;
     color: #FFFFFF;
     margin: 20px 20px 0px 20px;
@@ -44,32 +44,40 @@ div {
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom-width: 2px;
-    border-left-width: 5px;
+    border-top: 3px solid #FFFFFF;
+    border-right: 3px solid #FFFFFF;
+    border-bottom: 2px solid #FFFFFF;
+    border-left: 5px solid #FFFFFF;
 }
 
 .blue {
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border-right-width: 5px;
-    border-top-width: 2px;
+    border-top: 2px solid #FFFFFF;
+    border-right: 5px solid #FFFFFF;
+    border-bottom: 3px solid #FFFFFF;
+    border-left: 3px solid #FFFFFF;
 }
 
 .yellow {
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
-    border-bottom-width: 2px;
-    border-left-width: 5px;
+    border-top: 3px solid #FFFFFF;
+    border-right: 3px solid #FFFFFF;
+    border-bottom: 2px solid #FFFFFF;
+    border-left: 5px solid #FFFFFF;
 }
 
 .green {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-right-width: 5px;
-    border-top-width: 2px;
+    border-top: 2px solid #FFFFFF;
+    border-right: 5px solid #FFFFFF;
+    border-bottom: 3px solid #FFFFFF;
+    border-left: 3px solid #FFFFFF;
 }
 
 .blue h2, .blue p {
